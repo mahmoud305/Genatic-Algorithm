@@ -1,0 +1,3 @@
+H:/fci 4th year/Soft_Generic_Computing/Assingment3/Code/cmake-build-debug/CMakeFiles/Code.dir
+H:/fci 4th year/Soft_Generic_Computing/Assingment3/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/fci 4th year/Soft_Generic_Computing/Assingment3/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
